@@ -3,7 +3,7 @@ Python training for data science based on [Kaggle micro-courses](https://www.kag
 
 ID | Lesson | Files
 ------------ | ------------ | -------------
-1 | Lesson 1 - Hello, Python | [Training](Lesson 1/script_01.py) <br /> [Exercise](script_01.py)
+1 | Lesson 1 - Hello, Python | [Training]('Lesson 1'/script_01.py) <br /> [Exercise](script_01.py)
 2 | Lesson 2 - Functions and Getting Help | 
 3 | Lesson 3 - Booleans and Conditionals | 
 4 | Lesson 4 - Lists |
